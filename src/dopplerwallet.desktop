@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Doppler Wallet
+Comment=Doppler wallet
+Exec=dopplerwallet
+Terminal=false
+Type=Application
+Icon=doppler
+MimeType=x-scheme-handler/dopplerwallet;
+Categories=Office;Finance;
